@@ -490,3 +490,4 @@ if __name__=="__main__":
 
 # python "C:\Users\ASUS\Desktop\jarvish ai khatabook\khatabook.py"
 # new update
+# python "C:\Users\ASUS\Desktop\jarvish-final\jarvish.py
